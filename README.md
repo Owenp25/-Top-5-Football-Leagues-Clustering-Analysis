@@ -9,7 +9,6 @@ For this initial data exploration, I want to get a sense of the types of passing
 ![short passes![medium passes](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/0bb12fdc-bcba-46b2-aa84-dba21a3e7c76)
 ](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/ab6f2c93-53fa-4b8e-bd66-ee410586d863)
 ![long passes](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/b606e69e-33bd-4bbc-ada5-4d8f4b5da59d)
-![scatter grid](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/8210679a-f63a-48af-a143-531b337ab381)
 
 Short passes: fewest in bundesliga, most in la liga and premier league
 Medium passes: fewest in la liga, most in ligue 1 and bundesliga
