@@ -50,7 +50,7 @@ With this final pruned data set about 86.9% of the variability in the data is ca
 
 Cluster Legend
 
-![zoomed in](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/8c6385a5-484b-40c1-8165-a1a8795a0024)
+![zoomed in - Copy](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/f467008f-2b83-4063-92d7-579b2450fc2a)
 
 Zoomed-in Version
 
