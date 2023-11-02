@@ -46,6 +46,10 @@ With this final pruned data set about 86.9% of the variability in the data is ca
 
 ## Final 3D Cluster Plot
 
+![cluster legend](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/e9bbf669-7731-4d43-b268-b925629df6eb)
+
+Cluster Legend
+
 ![zoomed in](https://github.com/Owenp25/Top-5-Football-Leagues-Clustering-Analysis/assets/77632947/8c6385a5-484b-40c1-8165-a1a8795a0024)
 
 Zoomed-in Version
